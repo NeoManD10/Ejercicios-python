@@ -1,5 +1,9 @@
 #Realiza un programa que calcule el numero factorial de un numero
 #Usa recursividad
+"""
+Este es un comentario tambien
+            :)
+"""
 
 print("Calcular el numero factorial de un numero")
 n = int(input("Ingresa un numero: "))
