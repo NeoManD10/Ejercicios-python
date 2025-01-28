@@ -1,9 +1,9 @@
-# Programa que imprime todos los números pares desde 1 hasta N
+# Programa que imprime todos los números divsibles por 3 desde 1 hasta N
 
 # Solicitar el número N al usuario
 num = int(input("Ingrese un número: "))
 
 # Iterar desde 1 hasta N
-print(f"Números pares desde 1 hasta {num}:")
-for i in range(2, num + 1, 2):  # Comenzar en 2, incrementar de 2 en 2
+print(f"Números divisibles por 3 desde 0 hasta {num}:")
+for i in range(0, num, 3):  # comienza desde 0 hasta num , aumentando en 3 cada iteracion
     print(i)
