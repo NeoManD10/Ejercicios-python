@@ -1,4 +1,4 @@
-# Suma de dos números
+# Suma de dos números.
 # Escribe un programa que solicite al usuario ingresar dos números y luego imprima su suma.
 
 num1 = int(input("Ingrese un numero: "))
