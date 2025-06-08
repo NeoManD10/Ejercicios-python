@@ -6,4 +6,5 @@ num2 = int(input("Ingrese otro numero: "))
 
 suma = num1 + num2
 
+print("hola que pasa")
 print(f"La suma entre los dos numeros es: {suma}")
